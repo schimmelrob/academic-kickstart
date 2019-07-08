@@ -22,7 +22,7 @@ twitter = "schimmelrob"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = "avatar.jpg"
+logo = ""
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -65,7 +65,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/schimmelrob"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
   {icon = "comments", icon_pack = "fas", name = "LinkedIn", link = "https://www.linkedin.com/in/robin-schimmelpfennig-0763b6102/?originalSubdomain=ch"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
