@@ -74,3 +74,8 @@ subtitle = ""
  css_class = ""
 +++
 
+Over the past years, I have contributed to several Projects in Academia and Business
+
+- Virtual Reality
+- Policy
+
