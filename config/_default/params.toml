@@ -51,12 +51,12 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "robin.schimmelpfenig@fehradvice.com"
-phone = ""
-address = "Klausstrasse 20 8008 Zurich"
+#phone = ""
+#address = "Klausstrasse 20 8008 Zurich"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """None<br>
-                  Plese write E-Mail"""
+#office_hours = """None<br>
+                  #Plese write E-Mail"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -64,7 +64,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/schimmelrob"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/schimmelrob"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
   {icon = "comments", icon_pack = "fas", name = "LinkedIn", link = "https://www.linkedin.com/in/robin-schimmelpfennig-0763b6102/?originalSubdomain=ch"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
