@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "In Progress"
 subtitle = ""
 
 [content]
@@ -65,7 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+- Li, X., Muthukrishna, M., & Schimmelpfennig, R. (2017). Social Competition and Economic Consequences: Theory and Experiment. Paper presented by Li (student) at Inaugural Cultural Evolution Society Conference, Jena, Germany, 12 – 15 September.
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
