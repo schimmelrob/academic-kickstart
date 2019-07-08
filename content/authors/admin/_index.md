@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: London School of Economics
-  url: ""
+- name: Fehr Advice & Partners AG
+  url: "https://fehradvice.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Behavioral Economics, Development, and Behavioral AI.
+bio: My interests include Behavioral Economics, Development, and Behavioral AI.
 
 interests:
 - Social Norms
@@ -28,9 +28,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management
-    institution: University of Lausanne
-    year: 2018
   - course: MSc in Psychology of Economic Life
     institution: Leuphana University
     year: 2017
@@ -74,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Robin Schimmelpfennig is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Robin Schimmelpfennig is a consultant in the field of Behavioral Insights.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
