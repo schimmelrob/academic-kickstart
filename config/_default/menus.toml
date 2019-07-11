@@ -9,14 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Research"
+  name = "Academia"
   url = "#publications"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Consulting"
   url = "#projects"
-  weight = 20
+  weight = 30
 
 #[[main]]
   #name = "Publications"
