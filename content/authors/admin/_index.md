@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Robin Schimmelpfennig
+name: robin schimmelpfennig
 
 # Username (this should match the folder name)
 authors:
@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Robin Schimmelpfennig is a consultant and researcher  in the field of Behavioural Economics.
-He has an academic background in both Economics and Social Psychology and has contributed to research in the fields of Sustainable Behaviour, Normative Change, Perceptions of Inequality and International Development, all of which with a focus on Human Behaviour. He is affiliate Muthukrishna Lab based in the Department of Psychological and Behavioral Science at the London School of Economics, in which position he work with Prof. Muthukrishna on projects regarding antisocial behaviour.
+Robin Schimmelpfennig is a consultant and researcher in the field of Behavioural Economics.
+He has an academic background in both Economics and Social Psychology and has contributed to research in the fields of Sustainable Behaviour, Normative Change, Perceptions of Inequality and International Development, all of which with a focus on Human Behaviour. He is an affiliate Muthukrishna Lab at the London School of Economics. 
 
-In his current position, Robin works as an Behavioural Insights Consultant & Designer at FehrAdvice & Partners, Europe's leading Consultancy focussing on digital behaviour and behavioral change in the private and public sector. The company is founden by Prof. Ernst Fehr and his brother Gerhard Fehr and frequently collaborates with the University of Zurich.
+In his current role, Robin works as an Behavioural Insights Consultant & Designer at FehrAdvice & Partners, Europe's leading consultancy focusing on digital behaviour and behavioral change in the private and public sector. The company is founded by Prof. Ernst Fehr and his brother Gerhard Fehr and frequently collaborates with the University of Zurich.
 
