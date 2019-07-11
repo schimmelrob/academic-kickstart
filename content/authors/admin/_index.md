@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Behavioral Insights Consultant
+role: Behavioral Insights Consultant & Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,16 @@ organizations:
 bio: My interests include Behavioral Economics, Development, and Behavioral AI.
 
 interests:
-- Social Norms
+- Behavioural Economics
 - Normative Change
-- Cultural Evolution
-- Development
+- Digital Behaviour
+- Applied Cultural Evolution
+- International Development
 
 education:
   courses:
   - course: MSc in Psychology of Economic Life
-    institution: Leuphana University
+    institution: London School of Economics
     year: 2017
   - course: BSc in Economic 
     institution: Leuphana University Lüneburg
@@ -57,9 +58,9 @@ social:
   # link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Robin Schimmelpfennig is a consultant in the field of Behavioral Insights.
+Robin Schimmelpfennig is a consultant and researcher  in the field of Behavioural Economics.
+He has an academic background in both Economics and Social Psychology and has contributed to research in the fields of Sustainable Behaviour, Normative Change, Perceptions of Inequality and International Development, all of which with a focus on Human Behaviour. He is affiliate Muthukrishna Lab based in the Department of Psychological and Behavioral Science at the London School of Economics, in which position he work with Prof. Muthukrishna on projects regarding antisocial behaviour.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In his current position, Robin works as an Behavioural Insights Consultant & Designer at FehrAdvice & Partners, Europe's leading Consultancy focussing on digital behaviour and behavioral change in the private and public sector. The company is founden by Prof. Ernst Fehr and his brother Gerhard Fehr and frequently collaborates with the University of Zurich.
+
